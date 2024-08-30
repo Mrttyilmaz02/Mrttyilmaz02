@@ -1,15 +1,9 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Software
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Html,Css
+- 💬 Ask me about Html,Css technologies
 - 📫 How to reach me: muratylmz6302@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- ⚡ Fun fact: I love learning new things,software and reading a book
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muratylmz0227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YİLMAZMURAT02) 
 
